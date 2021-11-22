@@ -5,6 +5,8 @@
 *.pyo
 env/
 env*
+.venv/
+settings.json
 dist/
 build/
 *.egg
@@ -29,3 +31,4 @@ htmlcov/
 .direnv
 
 .github/**
+.env_file
